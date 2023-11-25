@@ -15,6 +15,7 @@ I am a passionate IT enthusiast with a focus on web development. I have a solid 
 - Git
 - Basics of Java, C#, .NET, and MySQL
 - Experience with SCSS, Tailwind CSS, Chakra UI, Material-UI
+- API Integration
 
 ### Education
 
